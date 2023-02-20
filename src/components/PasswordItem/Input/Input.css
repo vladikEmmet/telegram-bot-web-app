@@ -1,0 +1,8 @@
+.input {
+  background: var(--tg-theme-secondary-bg-color);
+  width: 90%;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  height: 40px;
+  color: var(--tg-theme-text-color);
+}
